@@ -1,7 +1,7 @@
 ˗ˏˋ ★ ˎˊ˗  Hey i m TANGFUi ˗ˏˋ ★ ˎˊ˗
 
 
-สนใจในสายงาน Project Coordinator ค่ะ
+สนใจในสายงาน Project Coordinator ค่ะ ⛱︎
 
 
    
