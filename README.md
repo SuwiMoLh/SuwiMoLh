@@ -9,7 +9,7 @@
 
 ↪︎ 𖡡  I'm based in ไทย
 
-↪︎ ✉  You can contact me at [suwi.h2002@gmail.com](mailto:suwi.h2002@gmail.com)
+↪︎ ☏  You can contact me at [suwi.h2002@gmail.com](mailto:suwi.h2002@gmail.com)
 
 ↪︎ ☞  I'm open to collaborating on ในสายงาน Project Coordinator
 
