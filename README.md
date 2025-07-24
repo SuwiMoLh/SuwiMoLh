@@ -1,11 +1,17 @@
+<!-- PROFILE COVER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc0eW9mYmx6Njc2a2NiM2RvZGk5eDA0a3U4bndvY3RtZGpoeWZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GoVLqeAOo6PK/giphy.gif" width="160" alt="Hello waving GIF" />
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="180px">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=700&size=32&pause=1500&color=ff69b4&width=480&lines=💖+Hey,+I'm+Tangfui!;Project+Coordinator+%7C+Thailand;Planning+%26+Teamwork+Love!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF77A9&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B+I'm+Tangfui;Project+Coordinator+%7C+Thailand;Digital+Tools+%2B+Teamwork+%3D+Love!" alt="Typing SVG">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Project%20Coordinator-ffb6c1?style=flat-square&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Location-Thailand-ffd1dc?style=flat-square&logo=google-maps&logoColor=white">
+  <img src="https://img.shields.io/badge/Coffee-Lover-ff80ab?style=flat-square&logo=buymeacoffee&logoColor=white">
+</p>
 
 <p align="center" style="font-family: 'Mali', cursive; font-weight:700; font-size:18px; color:#ff85c0;">
   👩🏻‍💻 Project Coordinator | Based in Thailand 🇹🇭  
