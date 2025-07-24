@@ -55,20 +55,22 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 
 ---
 
+---
+
 ## 🌸 Connect with Me
 
-<div align="center" style="max-width: 380px; margin: 30px auto; padding: 20px; border-radius: 25px; background: #ffe6f0; box-shadow: 0 6px 18px rgba(255, 121, 198, 0.25); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<p align="center">
 
-  <p style="font-weight: 900; font-size: 1.4rem; color: #d6336c; margin-bottom: 25px;">
-    Let's Connect! 💖
-  </p>
+<a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 20px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48" height="48" alt="Facebook" />
+  <br>
+  <sub><b>Facebook</b></sub>
+</a>
 
-  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 18px; text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="50" height="50" style="border-radius: 50%; box-shadow: 0 4px 12px #ff7eb9;" />
-  </a>
+<a href="https://github.com/SuwiMoLh" target="_blank" rel="noreferrer" style="margin: 0 20px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48" height="48" alt="GitHub" />
+  <br>
+  <sub><b>GitHub</b></sub>
+</a>
 
-  <a href="https://github.com/SuwiMoLh" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 18px; text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" height="50" style="border-radius: 50%; box-shadow: 0 4px 12px #ff7eb9;" />
-  </a>
-
-</div>
+</p>
