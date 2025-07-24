@@ -3,7 +3,9 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ใช้ Markdown + Emoji + รูปภาพ + Link เท่านั้น
 -->
 
-# 💖✨ ˗ˏˋ 𝗛𝗲𝘆, 𝗜’𝗺 𝗧𝗔𝗡𝗚𝗙𝗨𝗜! ˎˊ˗ 💖✨
+<p align="center" style="font-size: 2.8rem; font-weight: 900; font-family: 'Arial Black', Gadget, sans-serif; color: #ff79c6; margin-bottom: 10px;">
+  💖✨ ˗ˏˋ 𝗛𝗲𝘆, 𝗜’𝗺 𝗧𝗔𝗡𝗚𝗙𝗨𝗜! ˎˊ˗ 💖✨
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" alt="Waving hand GIF" width="160" style="border-radius: 12px;" />
@@ -39,7 +41,11 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ## ✨ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python,php,vscode,html,react,nextjs,tailwind,bootstrap,supabase,mysql,nodejs,figma,illustrator,googlecloud,wordpress,dotnet,linux" alt="Skills icons" style="border-radius: 12px;"/>
+  <img 
+    src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python,php,vscode,html,react,nextjs,tailwind,bootstrap,supabase,mysql,nodejs,figma,illustrator,googlecloud,wordpress,dotnet,linux" 
+    alt="Skills icons" 
+    style="border-radius: 12px; width: auto; height: 48px; object-fit: contain; padding: 4px 12px; background: #fff0f6; margin: 0 6px; box-shadow: 0 2px 6px rgba(255, 121, 198, 0.4);" 
+  />
 </p>
 
 ---
