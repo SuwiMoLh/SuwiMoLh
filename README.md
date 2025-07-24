@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=bold&size=24&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=480&lines=Planning+%E2%9C%85+;Supporting+Team+%F0%9F%A7%A9+;Connecting+People+%F0%9F%91%A9%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A9+;Digital+Tools+%2B+Tech+Friendly+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://i.gifer.com/origin/ea/ea7ef57c7d40dbd3d59f9ae22427c53d_w200.gif" alt="Typing animation gif" width="400" />
 </p>
 
 ---
