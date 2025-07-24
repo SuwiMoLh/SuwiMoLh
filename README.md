@@ -52,25 +52,34 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 ---
 
----
+----
 
 ## 🌸 Connect with Me
 
-<div align="center" style="background: #ffe6f0; border-radius: 20px; padding: 15px 40px; max-width: 320px; margin: 25px auto; box-shadow: 0 6px 15px rgba(255, 121, 198, 0.3);">
+<p align="center" style="background: #ffe6f0; border-radius: 20px; padding: 15px 0; max-width: 220px; margin: 25px auto; box-shadow: 0 6px 15px rgba(255, 121, 198, 0.3);">
 
-  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 30px; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="52" height="52" alt="Facebook" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(255, 121, 198, 0.4);" />
-    <div style="color: #d6336c; font-weight: 700; margin-top: 8px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-      Facebook
-    </div>
+  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 20px; display: inline-block;">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
+      width="56" height="56" 
+      alt="Facebook" 
+      style="border-radius: 50%; transition: transform 0.3s ease;" 
+    />
   </a>
 
-  <a href="https://www.instagram.com/yafgnat/" target="_blank" rel="noreferrer" style="margin: 0 30px; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="52" height="52" alt="Instagram" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(255, 121, 198, 0.4);" />
-    <div style="color: #d6336c; font-weight: 700; margin-top: 8px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-      Instagram
-    </div>
+  <a href="https://www.instagram.com/yafgnat/" target="_blank" rel="noreferrer" style="margin: 0 20px; display: inline-block;">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
+      width="56" height="56" 
+      alt="Instagram" 
+      style="border-radius: 50%; transition: transform 0.3s ease;" 
+    />
   </a>
 
-</div>
+</p>
+
+<script>
+  // GitHub README ไม่รองรับ script ดังนั้นนี้แค่โชว์ตัวอย่างเอฟเฟกต์
+  // เวลา hover ให้ไอคอนขยาย
+</script>
 
