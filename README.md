@@ -53,7 +53,6 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ---
 
 💌 Contact me!
-
 <p align="center">
   <a href="https://www.facebook.com/SuwiMoLhz" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" 
