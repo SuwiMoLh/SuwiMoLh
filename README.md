@@ -44,7 +44,7 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
   <img 
     src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python,php,vscode,html,react,nextjs,tailwind,bootstrap,supabase,mysql,nodejs,figma,illustrator,googlecloud,wordpress,dotnet,linux" 
     alt="Skills icons" 
-    style="border-radius: 12px; width: auto; height: 48px; object-fit: contain; padding: 4px 12px; background: #fff0f6; margin: 0 6px; box-shadow: 0 2px 6px rgba(255, 121, 198, 0.4);" 
+    style="border-radius: 12px; width: auto; height: 64px; object-fit: contain; padding: 8px 16px; background: #fff0f6; margin: 0 8px; box-shadow: 0 3px 8px rgba(255, 121, 198, 0.5);" 
   />
 </p>
 
