@@ -57,6 +57,8 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 
 ---
 
+---
+
 ## 🌸 Connect with Me
 
 <p align="center">
@@ -67,10 +69,11 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
   <sub><b>Facebook</b></sub>
 </a>
 
-<a href="https://github.com/SuwiMoLh" target="_blank" rel="noreferrer" style="margin: 0 20px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48" height="48" alt="GitHub" />
+<a href="https://www.instagram.com/yafgnat/" target="_blank" rel="noreferrer" style="margin: 0 20px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" height="48" alt="Instagram" />
   <br>
-  <sub><b>GitHub</b></sub>
+  <sub><b>Instagram</b></sub>
 </a>
 
 </p>
+
