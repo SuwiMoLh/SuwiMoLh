@@ -58,13 +58,16 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 
 <p align="center">
   <a href="https://www.facebook.com/SuwiMoLhz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
-         alt="Facebook" 
-         width="60" 
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" 
+         alt="Facebook Outline" 
+         width="52" 
          style="margin: 0 25px;" />
   </a>
   <a href="https://www.instagram.com/yafgnat/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
-         alt="Instagram" 
-         width="60" 
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111465.png" 
+         alt="Instagram Outline" 
+         width="52" 
          style="margin: 0 25px;" />
+  </a>
+</p>
+
