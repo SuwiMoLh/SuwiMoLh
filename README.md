@@ -53,15 +53,15 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ---
 
 ติดเพิ่มเติม
-
-<p align="center" style="background:#ffe6f0; border-radius: 18px; padding: 12px 40px; max-width: 280px; margin: 20px auto; box-shadow: 0 5px 12px rgba(255, 105, 180, 0.25);">
+<p align="center" style="background:#9b2c63; border-radius: 18px; padding: 12px 40px; max-width: 280px; margin: 20px auto; box-shadow: 0 5px 12px rgba(255, 105, 180, 0.5);">
 
   <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 25px; display: inline-block; text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1077/1077046.png" alt="Facebook" width="60" height="60" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(255, 105, 180, 0.6);" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1077/1077046.png" alt="Facebook" width="60" height="60" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(255, 105, 180, 0.8);" />
   </a>
 
   <a href="https://www.instagram.com/yafgnat/" target="_blank" rel="noreferrer" style="margin: 0 25px; display: inline-block; text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1077/1077049.png" alt="Instagram" width="60" height="60" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(255, 105, 180, 0.6);" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1077/1077049.png" alt="Instagram" width="60" height="60" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(255, 105, 180, 0.8);" />
   </a>
 
 </p>
+
