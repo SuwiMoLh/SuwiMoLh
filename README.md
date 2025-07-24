@@ -52,28 +52,14 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 ---
 
-----
+<p align="center">
 
-## 🌸 Connect with Me
-
-<p align="center" style="background: #ffe6f0; border-radius: 20px; padding: 15px 0; max-width: 220px; margin: 25px auto; box-shadow: 0 6px 15px rgba(255, 121, 198, 0.3);">
-
-  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 20px; display: inline-block;">
-    <img 
-      src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
-      width="56" height="56" 
-      alt="Facebook" 
-      style="border-radius: 50%; transition: transform 0.3s ease;" 
-    />
+  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="56" height="56" style="border-radius: 12px; box-shadow: 0 3px 6px rgba(59, 89, 152, 0.4);" />
   </a>
 
-  <a href="https://www.instagram.com/yafgnat/" target="_blank" rel="noreferrer" style="margin: 0 20px; display: inline-block;">
-    <img 
-      src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
-      width="56" height="56" 
-      alt="Instagram" 
-      style="border-radius: 50%; transition: transform 0.3s ease;" 
-    />
+  <a href="https://www.instagram.com/yafgnat/" target="_blank" rel="noreferrer" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="56" height="56" style="border-radius: 12px; box-shadow: 0 3px 6px rgba(131, 58, 180, 0.4);" />
   </a>
 
 </p>
