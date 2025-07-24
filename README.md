@@ -8,7 +8,7 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" alt="Waving hand GIF" width="160" style="border-radius: 12px;" />
+  <img src="[https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc0eW9mYmx6Njc2a2NiM2RvZGk5eDA0a3U4bndvY3RtZGpoeWZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GoVLqeAOo6PK/giphy.gif)" alt="Waving hand GIF" width="160" style="border-radius: 12px;" />
 </p>
 
 <div align="center" style="border: 3px solid #ff79c6; border-radius: 20px; padding: 20px; max-width: 600px; margin: auto;">
