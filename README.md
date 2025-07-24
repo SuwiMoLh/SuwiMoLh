@@ -15,11 +15,14 @@
 
 ↪︎ ❥  สวยด้วยค่ะ
 
-### 🚧 Tech Stack
+## 🚀 Tech Stack I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,supabase,figma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=💻+Full-stack+Web+Developer;🎨+Creative+Frontend+Lover;☁️+Cloud+&+Database+Wizard" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,supabase,mysql,figma,illustrator,vsco
 
 
 ### Socials
