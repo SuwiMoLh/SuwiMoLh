@@ -1,19 +1,31 @@
-˗ˏˋ ★ ˎˊ˗  Hey i m TANGFUi ˗ˏˋ ★ ˎˊ˗
+<h1 align="center">˗ˏˋ ★ ˎˊ˗  Hey i’m TANGFUi ˗ˏˋ ★ ˎˊ˗</h1>
+
+<p align="center">🌷 Project Coordinator in Progress 🌷</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Planning+%E2%9C%85+;Supporting+Team+%F0%9F%A7%A9+;Connecting+People+%F0%9F%91%A9%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A9+;Digital+Tools+%2B+Tech+Friendly+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+---
+
+## ⛱ About Me
+
+✨ สนใจในสายงาน **Project Coordinator**  
+📋 เน้น **การวางแผน + ประสานงาน + สนับสนุนทีมอย่างมีประสิทธิภาพ**  
+🧠 เข้าใจฝั่งเทคนิค สามารถทำงานร่วมกับทีม Dev ได้ดี  
+🧰 ใช้เครื่องมือดิจิทัลในการจัดการเอกสารและข้อมูล  
+🎀 พร้อมเรียนรู้สิ่งใหม่ และใส่ใจในรายละเอียด
 
 
-สนใจในสายงาน Project Coordinator ค่ะ ⛱︎
+---
 
+## 💼 Skills & Tools
 
-   
-โดยต้องการใช้ทักษะด้านการวางแผน ประสานงาน และสนับสนุนทีมงานให้ทำงานได้อย่างมีประสิทธิภาพ พร้อมใช้เครื่องมือดิจิทัลเพื่อจัดการข้อมูลและเอกสารอย่างเป็นระบบ และมีความสามารถทางเทคนิคที่ช่วยเข้าใจการทำงานร่วมกับทีม Developer ได้อย่างราบรื่น
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,supabase,figma,vscode,linux" />
+</p>
 
-↪︎ ꚰ  I'm based in ไทย
-
-↪︎ ☏  You can contact me at [suwi.h2002@gmail.com](mailto:suwi.h2002@gmail.com)
-
-↪︎ ☞  I'm open to collaborating on ในสายงาน Project Coordinator
-
-↪︎ ❥  สวยด้วยค่ะ
+---
 
 ### 📊 GitHub Stats
 
@@ -22,7 +34,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwiMoLh&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
-### Socials
+## 🌸 Socials
 
-<p align="left"> <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> <a href="https://www.github.com/SuwiMoLh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
+<p align="center">
+  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+  </a>
+  <a href="https://github.com/SuwiMoLh" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+</p>
