@@ -52,21 +52,17 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 ---
 
-<h3 align="center" style="font-weight:bold; color:#ff6db3;">
-  💌 Contact me!
-</h3>
-
 <p align="center">
   <a href="https://www.facebook.com/SuwiMoLhz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" 
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" 
          alt="Facebook" 
-         width="64" 
-         style="margin: 0 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+         width="60" 
+         style="margin: 0 30px;" />
   </a>
   <a href="https://www.instagram.com/yafgnat/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
          alt="Instagram" 
-         width="64" 
-         style="margin: 0 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+         width="60" 
+         style="margin: 0 30px;" />
   </a>
 </p>
