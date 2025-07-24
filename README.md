@@ -53,22 +53,20 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ---
 
 
----
-
 ## 🌸 Connect with Me
 
-<div align="center" style="max-width: 400px; margin: auto; border: 3px solid #ff79c6; border-radius: 25px; padding: 20px; background: #fff0f6; box-shadow: 0 4px 12px rgba(255,121,198,0.3);">
+<div align="center" style="max-width: 350px; margin: 20px auto; padding: 20px; border-radius: 30px; background: linear-gradient(135deg, #ff9acc, #ff79c6); box-shadow: 0 8px 20px rgba(255, 121, 198, 0.5);">
 
-  <p style="font-weight: 700; font-size: 1.2rem; color: #ff4081; margin-bottom: 15px;">
+  <p style="font-weight: 800; font-size: 1.3rem; color: #fff; margin-bottom: 20px; font-family: 'Arial Black', Gadget, sans-serif;">
     Let’s Connect! 💖
   </p>
 
-  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="44" height="44" alt="Facebook" style="border-radius: 12px; transition: transform 0.3s ease;" />
+  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 18px; display: inline-block; transition: transform 0.3s ease;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="52" height="52" alt="Facebook" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(255, 255, 255, 0.6);" />
   </a>
 
-  <a href="https://github.com/SuwiMoLh" target="_blank" rel="noreferrer" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="44" height="44" alt="GitHub" style="border-radius: 12px; transition: transform 0.3s ease;" />
+  <a href="https://github.com/SuwiMoLh" target="_blank" rel="noreferrer" style="margin: 0 18px; display: inline-block; transition: transform 0.3s ease;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="52" height="52" alt="GitHub" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(255, 255, 255, 0.6);" />
   </a>
 
 </div>
