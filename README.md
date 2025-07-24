@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc0eW9mYmx6Njc2a2NiM2RvZGk5eDA0a3U4bndvY3RtZGpoeWZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GoVLqeAOo6PK/giphy.gif" width="160" alt="Hello waving GIF" />
 </p>
 
-<h1 align="center" style="color:#ff6db3; font-weight:900; font-family: 'Mali', cursive;">
-  💖✨ ˗ˏˋ 𝗛𝗲𝗹𝗹𝗼, 𝗜’𝗺 𝗧𝗔𝗡𝗚𝗙𝗨𝗜! ˎˊ˗ ✨💖
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=700&size=32&pause=1500&color=ff69b4&width=480&lines=💖+Hey,+I'm+Tangfui!;Project+Coordinator+%7C+Thailand;Planning+%26+Teamwork+Love!" alt="Typing SVG" />
+</p>
+
 
 <p align="center" style="font-family: 'Mali', cursive; font-weight:700; font-size:18px; color:#ff85c0;">
   👩🏻‍💻 Project Coordinator | Based in Thailand 🇹🇭  
