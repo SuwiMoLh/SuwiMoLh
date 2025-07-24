@@ -52,15 +52,27 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuwiMoLh&show_icons=true&theme=dracula" alt="GitHub stats" style="border-radius: 12px;"/>
-</p>
+<div align="center" style="max-width: 650px; margin: auto; border: 3px solid #ff79c6; border-radius: 20px; padding: 20px; background: #fff0f6; box-shadow: 0 5px 15px rgba(255,121,198,0.3);">
 
-<p align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwiMoLh&layout=compact&theme=dracula" alt="Top languages" style="border-radius: 12px;"/>
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SuwiMoLh&show_icons=true&theme=react&hide_border=true&count_private=true&hide_title=true" 
+    alt="GitHub stats" 
+    style="width: 100%; max-width: 600px; border-radius: 15px; margin-bottom: 20px;" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwiMoLh&layout=compact&theme=react&hide_border=true&hide_title=true" 
+    alt="Top languages" 
+    style="border-radius: 15px; max-width: 320px; width: 100%;" 
+  />
+
+</div>
+
+---
 
 ---
 
