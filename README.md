@@ -7,10 +7,7 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
   💖✨ ˗ˏˋ 𝗛𝗲𝘆, 𝗜’𝗺 𝗧𝗔𝗡𝗚𝗙𝗨𝗜! ˎˊ˗ 💖✨
 </p>
 
-<p align="center">
-  <img src="![Hello GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-" alt="Waving hand GIF" width="160" style="border-radius: 12px;" />
-</p>
+![Hello GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 <div align="center" style="border: 3px solid #ff79c6; border-radius: 20px; padding: 20px; max-width: 600px; margin: auto;">
 
