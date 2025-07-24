@@ -52,37 +52,23 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 ---
 
----
-
-## 📊 GitHub Stats
-
-<div align="center" style="max-width: 650px; margin: auto; border: 3px solid #ff79c6; border-radius: 20px; padding: 20px; background: #fff0f6; box-shadow: 0 5px 15px rgba(255,121,198,0.3);">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SuwiMoLh&show_icons=true&theme=react&hide_border=true&count_private=true&hide_title=true" 
-    alt="GitHub stats" 
-    style="width: 100%; max-width: 600px; border-radius: 15px; margin-bottom: 20px;" 
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwiMoLh&layout=compact&theme=react&hide_border=true&hide_title=true" 
-    alt="Top languages" 
-    style="border-radius: 15px; max-width: 320px; width: 100%;" 
-  />
-
-</div>
-
----
 
 ---
 
 ## 🌸 Connect with Me
 
-<p align="center">
-  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="36" height="36" alt="Facebook" style="border-radius: 8px;" />
+<div align="center" style="max-width: 400px; margin: auto; border: 3px solid #ff79c6; border-radius: 25px; padding: 20px; background: #fff0f6; box-shadow: 0 4px 12px rgba(255,121,198,0.3);">
+
+  <p style="font-weight: 700; font-size: 1.2rem; color: #ff4081; margin-bottom: 15px;">
+    Let’s Connect! 💖
+  </p>
+
+  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="44" height="44" alt="Facebook" style="border-radius: 12px; transition: transform 0.3s ease;" />
   </a>
-  <a href="https://github.com/SuwiMoLh" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="36" height="36" alt="GitHub" style="border-radius: 8px;" />
+
+  <a href="https://github.com/SuwiMoLh" target="_blank" rel="noreferrer" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="44" height="44" alt="GitHub" style="border-radius: 12px; transition: transform 0.3s ease;" />
   </a>
-</p>
+
+</div>
