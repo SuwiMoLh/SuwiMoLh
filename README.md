@@ -1,62 +1,56 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="180px" alt="Hello GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc0eW9mYmx6Njc2a2NiM2RvZGk5eDA0a3U4bndvY3RtZGpoeWZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GoVLqeAOo6PK/giphy.gif" width="160" alt="Hello waving GIF" />
 </p>
 
-<h1 align="center" style="color:#ff69b4; font-weight:bold;">
-  💖 Hello, I'm Tangfui!
+<h1 align="center" style="color:#ff6db3; font-weight:900; font-family: 'Mali', cursive;">
+  💖✨ ˗ˏˋ 𝗛𝗲𝗹𝗹𝗼, 𝗜’𝗺 𝗧𝗔𝗡𝗚𝗙𝗨𝗜! ˎˊ˗ ✨💖
 </h1>
 
+<p align="center" style="font-family: 'Mali', cursive; font-weight:700; font-size:18px; color:#ff85c0;">
+  👩🏻‍💻 Project Coordinator | Based in Thailand 🇹🇭  
+  <br />
+  ✨ Passionate about planning, team support & digital workflows  
+  <br />
+  📧 <a href="mailto:suwi.h2002@gmail.com" style="color:#ff70a6; font-weight:800;">suwi.h2002@gmail.com</a>
+</p>
+
+---
+
+## 🛠️ Skills
+
 <p align="center">
-  💼 <strong>Project Coordinator</strong> from Thailand 🇹🇭 <br />
-  🎯 Passionate about planning, teamwork & organizing digital chaos! <br />
-  📧 <a href="mailto:suwi.h2002@gmail.com">suwi.h2002@gmail.com</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,python,mysql,vscode,figma,bootstrap,tailwind,linux,dotnet,git&theme=light" height="56" />
 </p>
 
 ---
 
 ## 🧸 About Me
 
-> 💡 I use my coordination superpowers to bridge teams, simplify workflows, and support developers with empathy + digital tools.  
-> 🌼 I believe in structure with soul — working smart and kindly.  
-> ✨ Soft & tech skills = my mix-tape 💖
-
----
-
-## ⚙️ Tech Tools I Love
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,python,mysql,vscode,figma,bootstrap,tailwind,linux,dotnet,git&theme=light" height="64" />
+<p align="center" style="font-family: 'Mali', cursive; font-size:16px; color:#d46ca6;">
+  🌸 I use my skills to organize, plan, and support teams with love and efficiency.<br />
+  🌼 Tech-savvy & empathetic collaborator between Project & Dev teams.<br />
+  ☕ Lover of pastel colors, coffee, and productivity hacks.<br />
+  ✨ Always learning and growing!
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuwiMoLh&show_icons=true&theme=rose_pine&hide_border=true&icon_color=ff7eb9&title_color=ff77aa" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwiMoLh&layout=compact&theme=rose_pine&hide_border=true&title_color=ff77aa" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuwiMoLh&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff70a6&title_color=ff70a6" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwiMoLh&layout=compact&theme=tokyonight&hide_border=true&title_color=ff70a6" width="45%" />
 </p>
 
 ---
 
-## 🌐 Socials
+## 💌 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" width="48px" alt="Facebook" />
+  <a href="https://www.facebook.com/SuwiMoLhz" target="_blank" rel="noreferrer" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" alt="Facebook" width="52" style="border-radius:12px; box-shadow: 0 4px 10px rgba(255, 107, 179, 0.5);" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/yafgnat/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48px" alt="Instagram" />
+  <a href="https://www.instagram.com/yafgnat/" target="_blank" rel="noreferrer" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" alt="Instagram" width="52" style="border-radius:12px; box-shadow: 0 4px 10px rgba(255, 107, 179, 0.5);" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-🎀 _Thanks for visiting! Let's stay connected & keep building beautiful things together._  
-💬 _Open for collaboration in Project Coordination & Digital Product teams._
-
-</div>
