@@ -53,7 +53,7 @@ Note: GitHub README ไม่รองรับ CSS แบบเต็มที�
 ---
 
 <h3 align="center" style="font-weight: bold; color: #ff69b4;">
-  💌 Let's Connect!
+  💌 Connect!
 </h3>
 
 <p align="center">
